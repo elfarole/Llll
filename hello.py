@@ -1,4 +1,5 @@
+def square(c):
+    return c*c
 
-names2 = 'Pablo'
-for charactere in names2:
-    print(charactere)
+for u in range(11):
+    print(f'The square of {u} is {square(u)}')
