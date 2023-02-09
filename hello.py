@@ -1,5 +1,4 @@
 
-name = 'Rafael'
-age = '24'
-height = '170'
-print(f"Hello, {name}, you are {age} and have {height}")
+names2 = 'Pablo'
+for charactere in names2:
+    print(charactere)
