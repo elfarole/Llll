@@ -64,3 +64,7 @@ print(house[input()])#With input we can set any element of dictionary
 
 # We can import functions from another py file
 from <name of file.py> import <name of functions># Does it works for any especific name into another file.py
+        #or
+import <names of file.py>        
+    print(f'The square of {u} is {<name of file.py>.square(u)}')# it is just another way to import functions from another file
+    
